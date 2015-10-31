@@ -1,0 +1,30 @@
+<!DOCTYPE HTML >
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hello World</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+</head>
+
+<button id="loginButton" type="button" class="btn btn-primary pull-right">Login</button>
+<button> <span class="label label-default pull-right">New User/Register</span></button>
+<body class="container"style="background-color:yellowgreen;color:Black;">>
+<div class="jumbotron">
+  <h1>The Children's Aid Society </h1>
+  <p>(College Guide)</p>
+<p><a class="btn btn-primary btn-lg" href="#" role="button">Why College</a></p>
+
+<li class="list-group-item">Going to college is not for everyone, but it is an option that every student should consider.Why? ...because there are so many types of colleges and college level programs available ....opportunities that will suit nearly every need or interest and the various talents and abilities found among individual high school students. A good education is beneficial from many different viewpoints, and while the importance of a college education is quite evident for many high school students, what is often not as clear is how they will pay for that education.  </li>
+
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Scholarships</a></p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Keys To Success</a></p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">SAT/ACT</a></p>
+
+
+</body>
+</html>
